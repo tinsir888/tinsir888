@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tinsir888)](https://github.com/tinsir888/github-readme-stats)
+### Willkommen! 👋
+[![tinsir888's github stats](https://github-readme-stats.vercel.app/api?username=tinsir888)](https://github.com/tinsir888/github-readme-stats)
 <!--
 **tinsir888/tinsir888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
