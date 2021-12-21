@@ -1,8 +1,6 @@
 ### Willkommen! 👋
 
-<a href="https://github.com/tinsir888/tinsir888">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=gruvbox&username=tinsir888&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width = 350/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinsir888&hide=java&theme=gruvbox&layout=compact)](https://github.com/tinsir888/github-readme-stats)
 
 [![tinsir888's github stats](https://github-readme-stats.vercel.app/api?username=tinsir888&hide=java&theme=gruvbox)](https://github.com/tinsir888/github-readme-stats)
 <!--
