@@ -1,5 +1,6 @@
 ### Grüß Gott!
 
+
 - 👋 Servus! Ich bin @tinsir888
 - 👀 Mein Forschungsinteresse gilt der Spieltheorie in Kombination mit künstlicher Intelligenz.
 - 📫 E-Mail smalltalk.odin@protonmail.com
@@ -12,11 +13,12 @@
 </a>
 </div>
 
-
+<!--
 <div align="center">
     <img src="https://raw.githubusercontent.com/tinsir888/tinsir888/main/assets/github-contribution-grid-snake.svg" />
 </div>
- 
+--> 
+
 <div align="center">
 <table>
     <tr>
@@ -25,16 +27,21 @@
     </tr>
 </table>
 </div>
-
+<!--
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tinsir888&repo=github-readme-activity-graph&theme=github&hide_border=true" />
 </a>
 </p>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-    <img src = "https://github-profile-trophy.vercel.app/?username=tinsir888" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=tinsir&theme=github" />
 </div>
+-->
+
+
+
 
 <!--
 **tinsir888/tinsir888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
