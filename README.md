@@ -1,8 +1,15 @@
 ### Grüß Gott! 👋
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinsir888&theme=gruvbox&layout=compact)](https://github.com/tinsir888/github-readme-stats)
 
 [![tinsir888's github stats](https://github-readme-stats.vercel.app/api?username=tinsir888&theme=gruvbox)](https://github.com/tinsir888/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tinsir888&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tinsir888)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **tinsir888/tinsir888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
