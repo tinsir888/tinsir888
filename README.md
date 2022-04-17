@@ -1,10 +1,30 @@
-### Grüß Gott! 👋
+### Grüß Gott!
+
+- 👋 Servus! Ich bin @tinsir888
+- 👀 Mein Forschungsinteresse gilt der Spieltheorie in Kombination mit künstlicher Intelligenz.
+- 📫 E-Mail smalltalk.odin@protonmail.com
+- 🏫 Ich studiere an der Nankai Universität für einen Bachelor-Abschluss in Informatik.
 
 
+<div align="center">
+<a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinsir888&show_icons=true&theme=github" />
+</a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinsir888&theme=gruvbox&layout=compact)](https://github.com/tinsir888/github-readme-stats)
 
-[![tinsir888's github stats](https://github-readme-stats.vercel.app/api?username=tinsir888&theme=gruvbox)](https://github.com/tinsir888/github-readme-stats)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/tinsir888/tinsir888/main/assets/github-contribution-grid-snake.svg" />
+  
+ 
+<div align="center">
+<table>
+    <tr>
+        <td ><center><img src="https://github-readme-stats.vercel.app/api?username=tinsir888&show_icons=true&theme=gruvbox"></td>
+        <td ><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinsir888&hide=java&layout=compact&langs_count=8&theme=gruvbox"></td>
+    </tr>
+</table>
+</div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tinsir888&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
