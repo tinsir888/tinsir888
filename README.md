@@ -15,7 +15,7 @@
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/tinsir888/tinsir888/main/assets/github-contribution-grid-snake.svg" />
-  
+</div>
  
 <div align="center">
 <table>
@@ -26,9 +26,15 @@
 </table>
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tinsir888&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=tinsir888&repo=github-readme-activity-graph&theme=github&hide_border=true" height="185">
+</a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tinsir888)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+    <img src = "https://github-profile-trophy.vercel.app/?username=tinsir888" />
+</div>
 
 <!--
 **tinsir888/tinsir888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
