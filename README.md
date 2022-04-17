@@ -6,6 +6,7 @@
 - 📫 E-Mail smalltalk.odin@protonmail.com
 - 🏫 Ich studiere an der Nankai Universität für einen Bachelor-Abschluss in Informatik.
 
+![](https://raw.githubusercontent.com/tinsir888/tinsir888/main/assets/github-contribution-grid-snake.svg)
 
 <div align="center">
 <a href="https://github.com/anuraghazra/convoychat">
