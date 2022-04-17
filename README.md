@@ -28,7 +28,7 @@
 
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=tinsir888&repo=github-readme-activity-graph&theme=github&hide_border=true" height="185">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=tinsir888&repo=github-readme-activity-graph&theme=github&hide_border=true" />
 </a>
 </p>
 
