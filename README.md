@@ -21,7 +21,7 @@
 <table>
     <tr>
         <td ><center><img src="https://github-readme-stats.vercel.app/api?username=tinsir888&show_icons=true&theme=gruvbox"></td>
-        <td ><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinsir888&hide=java&layout=compact&langs_count=8&theme=gruvbox"></td>
+        <td ><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinsir888&layout=compact&langs_count=8&theme=gruvbox"></td>
     </tr>
 </table>
 </div>
