@@ -4,8 +4,8 @@
 - 👋 Servus! Ich bin @tinsir888
 - 👀 Mein Forschungsinteresse gilt der Spieltheorie in Kombination mit künstlicher Intelligenz.
 - 📫 E-Mail smalltalk.odin@protonmail.com
-- 🏫 Ich habe früher an der Chongqing Nankai Weiterführende Schule studiert (2016-2019)
-- 🏫 Ich studiere an der Nankai Universität (2019-2023) für einen Bachelor-Abschluss in Informatik.
+- 🏫 Ich habe früher an der Chongqing Nankai Weiterführende Schule studiert. (2016-2019)
+- 🏫 Ich studiere an der Nankai Universität für einen Bachelor-Abschluss in Informatik.  (2019-2023)
 
 ![](https://raw.githubusercontent.com/tinsir888/tinsir888/main/assets/github-contribution-grid-snake.svg)
 <!--
