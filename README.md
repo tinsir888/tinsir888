@@ -1,4 +1,4 @@
-### Grüß Gott!
+### Griaß di!
 
 
 - 👋 Servus! Ich bin @tinsir888
