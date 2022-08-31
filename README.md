@@ -8,7 +8,7 @@
 
 - 👋 Servus! Ich bin @tinsir888
 
-- 👀 Mein Forschungsinteresse gilt der Spieltheorie in Kombination mit künstlicher Intelligenz.
+- 👀 Mein Forschungsinteresse gilt Entscheidungsintelligenz: algorithmische Spieltheorie, Reinforcement Learning, Multiagentensysteme, etc.
 
 - 📫 E-Mail smalltalk.odin@protonmail.com
 <!--
