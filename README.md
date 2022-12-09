@@ -1,20 +1,15 @@
 <!--
-# Dieses Konto wurde eingestellt.
 # This account has been discontinued。
 # 此帳戶已停用。
 -->
 ### Griaß di!
 
 
-- 👋 Servus! Ich bin @tinsir888
+- 👋 Servus! I am @tinsir888
 
-- 👀 Mein Forschungsinteresse gilt Entscheidungsintelligenz: algorithmische Spieltheorie, Reinforcement Learning, Multiagentensysteme, etc.
+- 👀 My research interests are focused on Decision Intelligence, e.g. (Algorithmic/Evolutionary) Game Theory, Multi-agent System, Reinforcement Learning, etc.
 
 - 📫 E-Mail smalltalk.odin@protonmail.com
-<!--
-- 🏫 Ich habe früher an der Chongqing Nankai Weiterführende Schule studiert. (2016-2019)
--->
-- 🏫 Ich studiere an der Nankai Universität für einen Bachelor-Abschluss in Informatik.  (2019-2023)
 
 ![](https://raw.githubusercontent.com/tinsir888/tinsir888/main/assets/github-contribution-grid-snake.svg)
 <!--
