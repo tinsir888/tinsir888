@@ -2,7 +2,7 @@
 # This account has been discontinued。
 # 此帳戶已停用。
 -->
-### Hello! | Hej! | Griaß di! Bonjour!= Ciao! ¡Hola!
+### Hi! | Hej! | Griaß di! | Bonjour! | Ciao! | ¡Hola!
 
 - 👋 I am @tinsir888
 
