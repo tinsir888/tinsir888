@@ -2,12 +2,16 @@
 # This account has been discontinued。
 # 此帳戶已停用。
 -->
+### Hello!
+### Hej!
 ### Griaß di!
+### Bonjour!
+### Ciao!
+### ¡Hola!
 
+- 👋 I am @tinsir888
 
-- 👋 Servus! I am @tinsir888
-
-- 👀 My research interests are focused on Decision Intelligence, e.g. (Algorithmic/Evolutionary) Game Theory, Multi-agent System, Reinforcement Learning, etc.
+- 👀 My interests are focused on Decision Intelligence, e.g. (Algorithmic/Evolutionary) Game Theory, Multi-agent System, Reinforcement Learning, etc.
 
 - 📫 E-Mail smalltalk.odin@protonmail.com
 
