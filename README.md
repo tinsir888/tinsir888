@@ -8,6 +8,8 @@
 
 - 👀 My interests are focused on Decision Intelligence, e.g. (Algorithmic/Evolutionary) Game Theory, Multi-agent System, Reinforcement Learning, etc.
 
+- 🔨 I am working on *Fair Division with Indivisible Items*.
+
 - 📫 E-Mail smalltalk.odin@protonmail.com
 
 <!--
