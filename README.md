@@ -6,7 +6,7 @@
 
 - 👋 I am @tinsir888
 
-- 👀 My interests are focused on Decision Intelligence, e.g. (Algorithmic/Evolutionary) Game Theory, Multi-agent System, Reinforcement Learning, etc.
+- 👀 My interests are focused on Decision Intelligence, e.g. (Algorithmic/Evolutionary/Combinatorial) Game Theory, Multi-agent System, Reinforcement Learning, etc.
 
 - 🏫 Education
   - M.Sc. *Computer Science* Student in Aarhus University 🇩🇰 Aug. 2023 ~ now
