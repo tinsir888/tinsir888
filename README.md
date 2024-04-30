@@ -9,8 +9,10 @@
 - 👀 My interests are focused on Decision Intelligence, e.g. (Algorithmic/Evolutionary/Combinatorial) Game Theory, Multi-agent System, Reinforcement Learning, etc.
 
 - 🏫 Education
-  - M.Sc. *Computer Science* in Aarhus University 🇩🇰 Aug. 2023 ~ now
-  - B.Eng. *Computer Science and Technology* in Nankai University 🇨🇳 Aug. 2019 ~ Jun. 2023
+  - M.Sc. *Computer Science* Aug. 2023 ~ now
+    - Advanced Machine Learning and Data Science
+    - Algorithmics
+  - B.Eng. *Computer Science and Technology* Aug. 2019 ~ Jun. 2023
 
 - 🔨 I am working on *Fair Division with Indivisible Items*. Weekly report 👉 [Category: Fair Division](https://tinsir888.github.io/categories/AUDatalogi/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88%E8%AE%BA/%E5%85%AC%E5%B9%B3%E5%88%86%E9%85%8D%E5%8D%9A%E5%BC%88/)
 
