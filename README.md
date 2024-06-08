@@ -2,7 +2,7 @@
 # This account has been discontinued。
 # 此帳戶已停用。
 -->
-### Hi! | Hej! | Griaß di! | Bonjour! | Ciao! | ¡Hola!
+### Hi! | Hej! | Servus! | Bonjour! | Ciao! | ¡Hola!
 
 - 👋 I am @tinsir888
 
@@ -14,7 +14,7 @@
     - Algorithmics
   - B.Eng. *Computer Science and Technology* Aug. 2019 ~ Jun. 2023
 
-- 🔨 I am working on *Fair Division with Indivisible Items*. Weekly report 👉 [Category: Fair Division](https://tinsir888.github.io/categories/AUDatalogi/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88%E8%AE%BA/%E5%85%AC%E5%B9%B3%E5%88%86%E9%85%8D%E5%8D%9A%E5%BC%88/)
+- 🔨 Project *Fair Division with Indivisible Items*. Weekly report 👉 [Category: Fair Division](https://tinsir888.github.io/categories/AUDatalogi/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88%E8%AE%BA/%E5%85%AC%E5%B9%B3%E5%88%86%E9%85%8D%E5%8D%9A%E5%BC%88/)
 
 - 📫 E-Mail smalltalk.odin@protonmail.com
 
