@@ -4,6 +4,10 @@
 -->
 ### Hi! | Hej! | Servus! | Bonjour! | Ciao! | ¡Hola!
 
+<p align="center">
+<a title="blog" target="_blank" href="https://tinsir888.github.io"><img src="https://img.shields.io/badge/blog-tinsir888-blue"></a>
+</p>
+
 - 👋 I am @tinsir888
 
 - 👀 My interests are focused on Decision Intelligence, e.g. (Algorithmic/Evolutionary/Combinatorial) Game Theory, Multi-agent System, Reinforcement Learning, etc.
