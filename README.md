@@ -18,9 +18,9 @@
     - Algorithmics
   - B.Eng. *Computer Science and Technology* Aug. 2019 ~ Jun. 2023
 
-- 🔨 Project *Fair Division with Indivisible Items* \(Done\). Weekly report 👉 [Category: Fair Division](https://tinsir888.github.io/categories/AUDatalogi/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88%E8%AE%BA/%E5%85%AC%E5%B9%B3%E5%88%86%E9%85%8D%E5%8D%9A%E5%BC%88/)
-- 🔨 Project *Fairness in AI/ML via Social Choice* \(In progress\). Report 👉 [Category: Fair AI/ML](https://tinsir888.github.io/categories/AUDatalogi/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88%E8%AE%BA/AI-ML-%E5%85%AC%E5%B9%B3%E6%80%A7/)
-- 🔨 Project *Speeding up a Knowledge Graph Embedding Reliability Measure* \(In progress\). Report 👉 [Category: Efficient ReliK](https://tinsir888.github.io/categories/AUDatalogi/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%8F%AF%E9%9D%A0%E6%80%A7%E8%A1%A1%E9%87%8F/)
+- 🔨 Project *Fair Division with Indivisible Items*. Weekly report 👉 [Category: Fair Division](https://tinsir888.github.io/categories/AUDatalogi/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88%E8%AE%BA/%E5%85%AC%E5%B9%B3%E5%88%86%E9%85%8D%E5%8D%9A%E5%BC%88/)
+- 🔨 Project *Fairness in AI/ML via Social Choice*. Report 👉 [Category: Fair AI/ML](https://tinsir888.github.io/categories/AUDatalogi/%E7%AE%97%E6%B3%95%E5%8D%9A%E5%BC%88%E8%AE%BA/AI-ML-%E5%85%AC%E5%B9%B3%E6%80%A7/)
+- 🔨 Project *Speeding up a Knowledge Graph Embedding Reliability Measure*. Report 👉 [Category: Efficient ReliK](https://tinsir888.github.io/categories/AUDatalogi/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%8F%AF%E9%9D%A0%E6%80%A7%E8%A1%A1%E9%87%8F/)
 
 - 📫 E-Mail smalltalk.odin@protonmail.com
 
