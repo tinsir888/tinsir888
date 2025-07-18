@@ -13,7 +13,8 @@
 - 👀 My interests are focused on Decision Intelligence, e.g. (Algorithmic/Evolutionary/Combinatorial) Game Theory, Multi-agent System, Reinforcement Learning, etc.
 
 - 🏫 Education
-  - M.Sc. *Computer Science* Aug. 2023 ~ now
+  - Ph.D. *Computer Science* Nov. 2025 ~ ?
+  - M.Sc. *Computer Science* Aug. 2023 ~ Jul. 2025
     - Advanced Machine Learning and Data Science
     - Algorithmics
   - B.Eng. *Computer Science and Technology* Aug. 2019 ~ Jun. 2023
